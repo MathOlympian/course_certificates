@@ -1,2 +1,2 @@
 # course_certificates
-This repository contains a few certificate from the past
+This repository contains a few certificates from the past
